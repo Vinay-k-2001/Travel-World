@@ -1,0 +1,9 @@
+admin - user (customer) - hotelier
+
+tour packages - create, read , update , delete
+
+customer - view & book
+
+MONGO DB CONNECTION URL = mongodb+srv://vicky:20011307@cluster0.wimrqde.mongodb.net/?retryWrites=true&w=majority
+
+END POINT OPS = Get () , Post () , Put () , Delete()
